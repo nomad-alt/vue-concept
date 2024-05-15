@@ -88,7 +88,8 @@ props: {
 }
 ```
 
-###Lifecycle Hooks (Mounted)
+### Lifecycle Hooks (Mounted)
+
 Lifecycle hooks are functions that are called at specific stages of a component's lifecycle. The onMounted hook is called after the component is mounted to the DOM.
 
 ```
